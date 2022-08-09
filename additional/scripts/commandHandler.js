@@ -28,7 +28,7 @@ function executeCommand() {
         case "linkedin":
             return window.open("https://linkedin.com/in/kirillfeschenko");
         case "email":
-            return window.open("mailto:swipduces@yandex.com");
+            return window.open("mailto:luagruda@gmail.com");
     }
 
 }
