@@ -22,7 +22,7 @@ function executeCommand() {
         case "twitter":
             return window.open("https://twitter.com/kiryssha");
         case "telegram":
-            return window.open("https://t.me/kirillfeschenko");
+            return window.open("https://t.me/Haryfarinston");
         case "habr":
             return window.open("https://habr.com/en/users/0susboy0/");
         case "linkedin":
