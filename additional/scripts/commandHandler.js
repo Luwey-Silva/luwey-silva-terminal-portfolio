@@ -19,14 +19,10 @@ function executeCommand() {
     switch (command.toLowerCase()) {
         case "github":
             return window.open("https://github.com/Luwey-Silva");
-        case "twitter":
-            return window.open("https://twitter.com/kiryssha");
         case "telegram":
             return window.open("https://t.me/Haryfarinston");
-        case "habr":
-            return window.open("https://habr.com/en/users/0susboy0/");
         case "linkedin":
-            return window.open("https://linkedin.com/in/kirillfeschenko");
+            return window.open("https://linkedin.com/luwey-silva");
         case "email":
             return window.open("mailto:luagruda@gmail.com");
     }
